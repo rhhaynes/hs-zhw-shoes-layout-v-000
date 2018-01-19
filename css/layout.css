@@ -41,3 +41,7 @@
 .leftmost-col {
   margin-left: 0;
 }
+
+.add-bottom-margin {
+  margin-bottom: 20px;
+}
