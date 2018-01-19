@@ -40,3 +40,8 @@
   border: 1px solid #F00;
 }
 
+[class*=.col-1] {
+  margin-left: 2%;
+}
+
+.first-col
