@@ -27,17 +27,14 @@
 .col-1 {
   float: left;
   width: 32%;
-  border: 1px solid #F00;
 }
 
 .col-2 {
   float: left;
   width: 66%;
-  border: 1px solid #F00;
 }
 
 .col-3 {
-  border: 1px solid #F00;
 }
 
 [class*="col-"] {
