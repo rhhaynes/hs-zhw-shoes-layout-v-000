@@ -242,6 +242,8 @@ iframe {
 	a.gplus { background-position: 0 -80px; }
 	a.gplus:hover { background-position: -40px -80px; }
 	a.gplus:active { background-position: -80px -80px; }
+	
+	a.test {width: 80px; height 80px;}
 
 /********** Content Area **********/
 
