@@ -223,8 +223,8 @@ iframe {
 
 	a.fbook, a.twitt, a.gplus {
 		display: block;
-		width: 20px;
-		height: 20px;
+		width: 30px;
+		height: 30px;
 		text-indent: 100%;
 		white-space: nowrap;
 		overflow: hidden;
